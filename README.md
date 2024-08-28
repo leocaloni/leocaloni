@@ -1,5 +1,5 @@
 ## <p align="center">Hi, I'm Leonardo Caloni 👋</p>
-### <p align="center">A Computer Science Student at IMT</p>
+### <p align="center">A Brazilian Computer Science Student at IMT <img src="https://www.bandeirasnacionais.com/data/flags/emoji/facebook/256x256/br.png" width="15" /></p>
 <p align="center"> <img src="https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_512,h_239/https://itafi.com.br/wp-content/uploads/2020/07/instituto_maua.png" width="300"> </p>
 
 
