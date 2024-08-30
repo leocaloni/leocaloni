@@ -5,6 +5,7 @@
 
   - Currently studying Spring Boot 🍃
   - Looking for an internship 💻
+  - Focused on back-end development
 
 #### How to contatc me
   <a href="mailto:leomunduruca@gmail.com">
