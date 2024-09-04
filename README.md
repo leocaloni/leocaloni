@@ -23,8 +23,8 @@
 ##
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leocaloni&show_icons=true&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=leocaloni&show_icons=true&theme=github_dark" width="450"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocaloni&theme=github_dark&layout=compact" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocaloni&theme=github_dark&layout=compact" width="450"/>
 </p>
