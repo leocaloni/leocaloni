@@ -1,7 +1,6 @@
 ## <p align="center">Hi, I'm Leonardo Caloni 👋</p>
 ### <p align="center">A Brazilian Developer <img src="https://www.bandeirasnacionais.com/data/flags/emoji/facebook/256x256/br.png" width="15" /></p>
 
-  - Currently studying Spring Boot 🍃
   - Looking for an internship 💻
 
 #### How to contatc me
