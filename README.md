@@ -108,6 +108,4 @@ I love technology, development, and learning how software can solve real problem
 
 ### 🐍 Contributions
 
-<p align="center">
-  <img src="https://github.com/leocaloni/leocaloni/blob/main/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-</p>
+
