@@ -106,6 +106,3 @@ I love technology, development, and learning how software can solve real problem
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocaloni&theme=github_dark&layout=compact" width="450"/>
 </p>
 
-### 🐍 Contributions
-
-
