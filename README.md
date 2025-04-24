@@ -67,23 +67,6 @@ I love technology, development, and learning how software can solve real problem
 
 ---
 
-### 🧪 Academic Projects
-
-- **Facial Recognition System for São Paulo Metro (2024)**  
-  Face recognition system with remote service support for public transportation.
-
-- **Online Auction Platform for APAE São Caetano (2023)**  
-  Web platform developed to automate charity auctions.
-
----
-
-### 📜 Certifications
-
-- Java Foundations – Oracle Academy  
-- Foundations: Data, Data, Everywhere – Google  
-- Arduino Basics – Instituto Mauá de Tecnologia
-
----
 
 ### 📫 How to Contact Me
 
@@ -105,4 +88,8 @@ I love technology, development, and learning how software can solve real problem
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocaloni&theme=github_dark&layout=compact" width="450"/>
 </p>
+
+---
+
+### 🐍 Contributions
 
