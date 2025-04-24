@@ -82,14 +82,22 @@ I love technology, development, and learning how software can solve real problem
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leocaloni&show_icons=true&theme=github_dark" width="450"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocaloni&theme=github_dark&layout=compact" width="450"/>
-</p>
+
+<div style="text-align: center;" align="center">
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leocaloni&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&border_radius=3&theme=github_dark" alt="GitHub stats">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=leocaloni&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&hide=html,scss,less&border_radius=3&count_private=true&theme=github_dark" alt="Most Used Languages">
+</div>
+
+
 
 ---
 
 ### 🐍 Contributions
-
+<div style="text-align: center;" align="center">
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leocaloni/leocaloni/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leocaloni/leocaloni/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leocaloni/leocaloni/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
