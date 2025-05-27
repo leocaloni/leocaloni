@@ -56,15 +56,6 @@ I love technology, development, and learning how software can solve real problem
 
 ---
 
-### 📚 Currently Learning
-<p>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
-
----
-
 ### 📫 How to Contact Me
 
 <a href="mailto:leomunduruca@gmail.com">
