@@ -41,7 +41,7 @@ I'm a Computer Science student at **Instituto Mauá de Tecnologia** (graduating 
   </tr>
   <tr>
     <td><b>Databases</b></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="PostgreSQL, MySQL, MongoDB"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,cassandra" alt="PostgreSQL, MySQL, MongoDB, Cassandra"/></td>
   </tr>
 </table>
 </div>
